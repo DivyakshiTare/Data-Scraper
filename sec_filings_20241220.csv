@@ -1,0 +1,285 @@
+cik,company_name,filing_type,filing_date,filing_link
+1776909,CuriosityStream Inc.,10-Q,2024-11-07,https://www.sec.gov/Archives/edgar/data/000162828024046268/curi-20240930.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-Q,2024-10-09,https://www.sec.gov/Archives/edgar/data/000149315224040488/form10-q.htm
+1776909,CuriosityStream Inc.,10-Q,2024-08-14,https://www.sec.gov/Archives/edgar/data/000162828024037192/curi-20240630.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-Q,2024-07-03,https://www.sec.gov/Archives/edgar/data/000149315224026245/form10-q.htm
+1776909,CuriosityStream Inc.,10-Q,2024-05-08,https://www.sec.gov/Archives/edgar/data/000162828024021589/curi-20240331.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-Q,2024-04-15,https://www.sec.gov/Archives/edgar/data/000149315224014620/form10-q.htm
+1776909,CuriosityStream Inc.,10-K,2024-03-25,https://www.sec.gov/Archives/edgar/data/000162828024012902/curi-20231231.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-K,2024-03-04,https://www.sec.gov/Archives/edgar/data/000149315224008715/form10-k.htm
+1841800,"Nogin, Inc.",10-Q,2023-11-22,https://www.sec.gov/Archives/edgar/data/000121390023089471/f10q0923_nogininc.htm
+1776909,CuriosityStream Inc.,10-Q,2023-11-13,https://www.sec.gov/Archives/edgar/data/000162828023038664/curi-20230930.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-Q,2023-10-03,https://www.sec.gov/Archives/edgar/data/000149315223035274/form10-q.htm
+1776909,CuriosityStream Inc.,10-Q,2023-08-14,https://www.sec.gov/Archives/edgar/data/000119312523212485/d528993d10q.htm
+1841800,"Nogin, Inc.",10-Q,2023-08-14,https://www.sec.gov/Archives/edgar/data/000095017023042370/nogn-20230630.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-Q,2023-07-21,https://www.sec.gov/Archives/edgar/data/000149315223025160/form10-q.htm
+1841800,"Nogin, Inc.",10-Q,2023-05-15,https://www.sec.gov/Archives/edgar/data/000095017023021940/nogn-20230331.htm
+1776909,CuriosityStream Inc.,10-Q,2023-05-11,https://www.sec.gov/Archives/edgar/data/000119312523142152/d502329d10q.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-Q,2023-04-14,https://www.sec.gov/Archives/edgar/data/000149315223012364/form10-q.htm
+1776909,CuriosityStream Inc.,10-K,2023-03-31,https://www.sec.gov/Archives/edgar/data/000119312523086553/d384925d10k.htm
+1841800,"Nogin, Inc.",10-K,2023-03-23,https://www.sec.gov/Archives/edgar/data/000095017023009502/nogn-20221231.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-K,2023-03-01,https://www.sec.gov/Archives/edgar/data/000149315223006314/form10-k.htm
+919175,"Sugarmade, Inc.",10-Q,2023-02-21,https://www.sec.gov/Archives/edgar/data/000149315223005697/form10-q.htm
+919175,"Sugarmade, Inc.",10-Q,2023-01-26,https://www.sec.gov/Archives/edgar/data/000149315223002544/form10-q.htm
+919175,"Sugarmade, Inc.",10-K,2023-01-13,https://www.sec.gov/Archives/edgar/data/000149315223001479/form10-k.htm
+1841800,"Nogin, Inc.",10-Q,2022-11-14,https://www.sec.gov/Archives/edgar/data/000095017022024994/nogn-20220930.htm
+1776909,CuriosityStream Inc.,10-Q,2022-11-10,https://www.sec.gov/Archives/edgar/data/000119312522282598/d339003d10q.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-Q,2022-09-29,https://www.sec.gov/Archives/edgar/data/000149315222027093/form10-q.htm
+1841800,"Nogin, Inc.",10-Q,2022-08-15,https://www.sec.gov/Archives/edgar/data/000119312522220199/d373257d10q.htm
+1776909,CuriosityStream Inc.,10-Q,2022-08-15,https://www.sec.gov/Archives/edgar/data/000121390022048112/f10q0622_curiositystream.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-Q,2022-06-24,https://www.sec.gov/Archives/edgar/data/000149315222017714/form10-q.htm
+919175,"Sugarmade, Inc.",10-Q,2022-05-23,https://www.sec.gov/Archives/edgar/data/000149315222014752/form10-q.htm
+1776909,CuriosityStream Inc.,10-Q,2022-05-16,https://www.sec.gov/Archives/edgar/data/000121390022027215/f10q0322_curiositystream.htm
+1841800,"Nogin, Inc.",10-Q,2022-05-16,https://www.sec.gov/Archives/edgar/data/000119312522151653/d269092d10q.htm
+1900679,Technology & Telecommunication Acquisition Corp,10-Q,2022-04-15,https://www.sec.gov/Archives/edgar/data/000149315222010009/form10-q.htm
+1776909,CuriosityStream Inc.,10-K,2022-03-31,https://www.sec.gov/Archives/edgar/data/000121390022016637/f10k2021_curiositystream.htm
+1841800,"Nogin, Inc.",10-K,2022-03-30,https://www.sec.gov/Archives/edgar/data/000119312522088728/d325808d10k.htm
+919175,"Sugarmade, Inc.",10-Q,2022-02-22,https://www.sec.gov/Archives/edgar/data/000149315222005104/form10-q.htm
+919175,"Sugarmade, Inc.",10-Q,2021-11-22,https://www.sec.gov/Archives/edgar/data/000149315221029493/form10-q.htm
+1776909,CuriosityStream Inc.,10-Q,2021-11-12,https://www.sec.gov/Archives/edgar/data/000121390021058673/f10q0921_curiositystream.htm
+1841800,"Nogin, Inc.",10-Q,2021-11-01,https://www.sec.gov/Archives/edgar/data/000119312521315586/d199192d10q.htm
+919175,"Sugarmade, Inc.",10-K,2021-10-13,https://www.sec.gov/Archives/edgar/data/000149315221025284/form10-k.htm
+1841800,"Nogin, Inc.",10-Q,2021-09-13,https://www.sec.gov/Archives/edgar/data/000119312521271459/d134869d10q.htm
+1776909,CuriosityStream Inc.,10-Q,2021-08-13,https://www.sec.gov/Archives/edgar/data/000121390021042422/f10q0621_curiositystream.htm
+1816048,Otonomo Merger US Inc.,10-Q,2021-08-13,https://www.sec.gov/Archives/edgar/data/000121390021042475/f10q0621_softwareacq2.htm
+1816048,Otonomo Merger US Inc.,10-Q,2021-05-25,https://www.sec.gov/Archives/edgar/data/000121390021029107/f10q0321_softwareacqu2.htm
+919175,"Sugarmade, Inc.",10-Q,2021-05-19,https://www.sec.gov/Archives/edgar/data/000149315221012262/form10-q.htm
+1776909,CuriosityStream Inc.,10-Q,2021-05-12,https://www.sec.gov/Archives/edgar/data/000121390021025790/f10q0321_curiositystreaminc.htm
+1776909,CuriosityStream Inc.,10-K,2021-03-31,https://www.sec.gov/Archives/edgar/data/000121390021018943/f10k2020_curiositystream.htm
+1816048,Otonomo Merger US Inc.,10-K,2021-03-16,https://www.sec.gov/Archives/edgar/data/000121390021015701/f10k2020_softwareacq2.htm
+919175,"Sugarmade, Inc.",10-Q,2021-02-22,https://www.sec.gov/Archives/edgar/data/000149315221004514/form10-q.htm
+919175,"Sugarmade, Inc.",10-Q,2020-11-23,https://www.sec.gov/Archives/edgar/data/000152013820000581/sgmd-20200930_10q.htm
+1776909,CuriosityStream Inc.,10-Q,2020-11-16,https://www.sec.gov/Archives/edgar/data/000121390020037069/f10q0920_curiositystreaminc.htm
+1816048,Otonomo Merger US Inc.,10-Q,2020-11-13,https://www.sec.gov/Archives/edgar/data/000121390020036948/f10q0920_softwareacqu2.htm
+919175,"Sugarmade, Inc.",10-K,2020-10-16,https://www.sec.gov/Archives/edgar/data/000152013820000490/sgmd-20200630_10k.htm
+1776909,CuriosityStream Inc.,10-Q,2020-08-14,https://www.sec.gov/Archives/edgar/data/000121390020022243/f10q0620_softwareacq.htm
+919175,"Sugarmade, Inc.",10-Q,2020-05-20,https://www.sec.gov/Archives/edgar/data/000152013820000229/sgmd-20200331_10q.htm
+1776909,CuriosityStream Inc.,10-Q,2020-05-15,https://www.sec.gov/Archives/edgar/data/000121390020012585/f10q0320_softwareacq.htm
+1776909,CuriosityStream Inc.,10-K,2020-03-20,https://www.sec.gov/Archives/edgar/data/000121390020007027/f10k2019_softwareacquisition.htm
+919175,"Sugarmade, Inc.",10-Q,2020-02-19,https://www.sec.gov/Archives/edgar/data/000152013820000068/sgmd-20191231_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2019-11-19,https://www.sec.gov/Archives/edgar/data/000152013819000476/sgmd-20190930_10q.htm
+919175,"Sugarmade, Inc.",10-K,2019-10-15,https://www.sec.gov/Archives/edgar/data/000152013819000392/sgmd-20190630_10k.htm
+919175,"Sugarmade, Inc.",10-Q,2019-05-20,https://www.sec.gov/Archives/edgar/data/000152013819000178/sgmd-20190331_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2019-02-21,https://www.sec.gov/Archives/edgar/data/000152013819000046/sgmd-20181231_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2018-12-26,https://www.sec.gov/Archives/edgar/data/000152013818000350/sgmd-20180930_10q.htm
+919175,"Sugarmade, Inc.",10-K,2018-11-28,https://www.sec.gov/Archives/edgar/data/000152013818000333/sgmd-20180630_10k.htm
+919175,"Sugarmade, Inc.",10-Q,2018-08-02,https://www.sec.gov/Archives/edgar/data/000152013818000165/sgmd-20180331_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2018-07-17,https://www.sec.gov/Archives/edgar/data/000152013818000156/sgmd-20171231_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2018-06-07,https://www.sec.gov/Archives/edgar/data/000152013818000121/sgmd-20170930_10q.htm
+919175,"Sugarmade, Inc.",10-K,2018-03-19,https://www.sec.gov/Archives/edgar/data/000152013818000033/sgmd-20170630.htm
+919175,"Sugarmade, Inc.",10-Q,2017-05-22,https://www.sec.gov/Archives/edgar/data/000152013817000201/sgmd-20170331_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2017-02-28,https://www.sec.gov/Archives/edgar/data/000152013817000083/sgmd-20161231_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2016-11-23,https://www.sec.gov/Archives/edgar/data/000152013816001268/sgmd-20160930_10q.htm
+919175,"Sugarmade, Inc.",10-K,2016-11-01,https://www.sec.gov/Archives/edgar/data/000152013816001218/sgmd-20160630_10k.htm
+919175,"Sugarmade, Inc.",10-Q,2016-08-29,https://www.sec.gov/Archives/edgar/data/000152013816001132/sgmd-20160331_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2016-08-29,https://www.sec.gov/Archives/edgar/data/000152013816001125/sgmd-20151231_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2016-08-24,https://www.sec.gov/Archives/edgar/data/000152013816001116/sgmd-20150930_10q.htm
+919175,"Sugarmade, Inc.",10-K,2016-08-04,https://www.sec.gov/Archives/edgar/data/000152013816001071/sgmd-20150630_10k.htm
+919175,"Sugarmade, Inc.",10-Q,2016-03-07,https://www.sec.gov/Archives/edgar/data/000152013816000763/sgmd-20150331_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2016-02-04,https://www.sec.gov/Archives/edgar/data/000152013816000698/sgmd-20141231_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2015-11-27,https://www.sec.gov/Archives/edgar/data/000152013815000506/sgmd-20140930_10q.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2015-11-16,https://www.sec.gov/Archives/edgar/data/000146970915000607/nuuu10q_093015apg.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2015-08-19,https://www.sec.gov/Archives/edgar/data/000146970915000485/nuuu10q_063015apg.htm
+919175,"Sugarmade, Inc.",10-Q,2015-05-20,https://www.sec.gov/Archives/edgar/data/000152013815000246/sgmd-20140331_10q.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2015-05-20,https://www.sec.gov/Archives/edgar/data/000146970915000291/nuuu10q_033115apg.htm
+919175,"Sugarmade, Inc.",10-Q,2015-05-20,https://www.sec.gov/Archives/edgar/data/000152013815000244/sgmd-20130930_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2015-05-20,https://www.sec.gov/Archives/edgar/data/000152013815000245/sgmd-20131231_10q.htm
+919175,"Sugarmade, Inc.",10-K,2015-05-20,https://www.sec.gov/Archives/edgar/data/000152013815000247/sgmd-20140630_10k.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-K,2015-04-15,https://www.sec.gov/Archives/edgar/data/000146970915000199/nuuu10k_123114apg.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2014-11-19,https://www.sec.gov/Archives/edgar/data/000146970914000498/nuuu10q_093014apg.htm
+919175,"Sugarmade, Inc.",10-K,2014-11-06,https://www.sec.gov/Archives/edgar/data/000152013814000298/sgmd-20130630_10k.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2014-08-14,https://www.sec.gov/Archives/edgar/data/000146970914000336/nuuu10q_063014apg.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2014-05-20,https://www.sec.gov/Archives/edgar/data/000146970914000201/taic10q_033114apg.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-K,2014-04-15,https://www.sec.gov/Archives/edgar/data/000146970914000133/taic10k_123113apg.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2013-11-19,https://www.sec.gov/Archives/edgar/data/000146970913000662/taic10q_093013apg.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2013-08-19,https://www.sec.gov/Archives/edgar/data/000146970913000501/taic10q_063013apg.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2013-05-20,https://www.sec.gov/Archives/edgar/data/000146970913000342/taic10q_033113apg.htm
+919175,"Sugarmade, Inc.",10-Q,2013-05-15,https://www.sec.gov/Archives/edgar/data/000135448813002817/sgmd_10q.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-K,2013-04-16,https://www.sec.gov/Archives/edgar/data/000146970913000240/taic10k_123112apg2.htm
+919175,"Sugarmade, Inc.",10-Q,2013-02-14,https://www.sec.gov/Archives/edgar/data/000135448813000652/sgmd_10q.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2012-11-19,https://www.sec.gov/Archives/edgar/data/000155475712000399/taic-10q.htm
+919175,"Sugarmade, Inc.",10-Q,2012-11-14,https://www.sec.gov/Archives/edgar/data/000135448812005855/sgmd_10q.htm
+919175,"Sugarmade, Inc.",10-K,2012-10-12,https://www.sec.gov/Archives/edgar/data/000091917512000017/sugarmade10k20120630final.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2012-08-20,https://www.sec.gov/Archives/edgar/data/000155475712000106/form10q.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2012-05-22,https://www.sec.gov/Archives/edgar/data/000153362112000201/taicform_10q.htm
+919175,"Sugarmade, Inc.",10-Q,2012-05-15,https://www.sec.gov/Archives/edgar/data/000091917512000007/sugarmade10q2012331final.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-K,2012-04-16,https://www.sec.gov/Archives/edgar/data/000153362112000077/taic.htm
+919175,"Sugarmade, Inc.",10-Q,2012-02-14,https://www.sec.gov/Archives/edgar/data/000091917512000002/sugarmade10q20111231final.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2011-11-18,https://www.sec.gov/Archives/edgar/data/000110801711000476/ta10q.htm
+919175,"Sugarmade, Inc.",10-Q,2011-11-14,https://www.sec.gov/Archives/edgar/data/000091917511000032/sugarmade10q20110930final.htm
+919175,"Sugarmade, Inc.",10-K,2011-09-28,https://www.sec.gov/Archives/edgar/data/000091917511000031/sugarmade10k20110630final.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2011-08-15,https://www.sec.gov/Archives/edgar/data/000110801711000288/ta10q.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2011-05-16,https://www.sec.gov/Archives/edgar/data/000110801711000183/app10q.htm
+919175,"Sugarmade, Inc.",10-Q,2011-04-28,https://www.sec.gov/Archives/edgar/data/000091917511000005/dvop10q20110331final.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-K,2011-03-28,https://www.sec.gov/Archives/edgar/data/000110801711000088/raj10k.htm
+919175,"Sugarmade, Inc.",10-Q,2011-02-01,https://www.sec.gov/Archives/edgar/data/000091917511000002/dvop10q20101231final.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2010-11-15,https://www.sec.gov/Archives/edgar/data/000110801710000310/raj10q.htm
+919175,"Sugarmade, Inc.",10-Q,2010-10-28,https://www.sec.gov/Archives/edgar/data/000091917510000010/dvop10q20100930final.htm
+919175,"Sugarmade, Inc.",10-K,2010-09-20,https://www.sec.gov/Archives/edgar/data/000091917510000009/dvop10k20100630final.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2010-08-16,https://www.sec.gov/Archives/edgar/data/000110801710000213/raj10q.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-Q,2010-05-17,https://www.sec.gov/Archives/edgar/data/000110801710000137/raj10q.htm
+919175,"Sugarmade, Inc.",10-Q,2010-05-14,https://www.sec.gov/Archives/edgar/data/000091917510000006/dvop10q20100331final.htm
+1481427,"REJUVEL BIO-SCIENCES, INC.",10-K,2010-03-31,https://www.sec.gov/Archives/edgar/data/000110801710000065/raj10k2009.htm
+919175,"Sugarmade, Inc.",10-Q,2010-01-26,https://www.sec.gov/Archives/edgar/data/000091917510000002/dvop10q20091231final.htm
+919175,"Sugarmade, Inc.",10-Q,2009-10-30,https://www.sec.gov/Archives/edgar/data/000091917509000008/dvop10q20090930final.htm
+919175,"Sugarmade, Inc.",10-K,2009-08-04,https://www.sec.gov/Archives/edgar/data/000091917509000006/dvop10k20090630final.htm
+919175,"Sugarmade, Inc.",10-Q,2009-05-01,https://www.sec.gov/Archives/edgar/data/000091917509000005/dvop10q20090331final.htm
+919175,"Sugarmade, Inc.",10-Q,2009-02-05,https://www.sec.gov/Archives/edgar/data/000091917509000002/ie10q20081231final.htm
+1121225,"MINRAD INTERNATIONAL, INC.",10-Q,2008-11-14,https://www.sec.gov/Archives/edgar/data/000095015208009347/l34553ae10vq.htm
+919175,"Sugarmade, Inc.",10-Q,2008-11-10,https://www.sec.gov/Archives/edgar/data/000091917508000009/ie10q20080930final.htm
+1121225,"MINRAD INTERNATIONAL, INC.",10-Q,2008-08-14,https://www.sec.gov/Archives/edgar/data/000095015208006556/l32884ae10vq.htm
+919175,"Sugarmade, Inc.",10-Q,2008-05-15,https://www.sec.gov/Archives/edgar/data/000101968708002204/diversified_10q-033108.txt
+1121225,"MINRAD INTERNATIONAL, INC.",10-Q,2008-05-14,https://www.sec.gov/Archives/edgar/data/000095015208003982/l31646ae10vq.htm
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2005-08-08,https://www.sec.gov/Archives/edgar/data/000110465905037314/a05-12829_110q.htm
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2005-05-06,https://www.sec.gov/Archives/edgar/data/000110465905021268/a05-8210_110q.htm
+1106842,SEEBEYOND TECHNOLOGY CORP,10-K,2005-03-09,https://www.sec.gov/Archives/edgar/data/000110465905010183/a05-3785_110k.htm
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2004-11-09,https://www.sec.gov/Archives/edgar/data/000110465904034719/a04-13132_110q.htm
+840824,NETEGRITY INC,10-Q,2004-10-29,https://www.sec.gov/Archives/edgar/data/000095013504005024/b52100nie10vq.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2004-08-09,https://www.sec.gov/Archives/edgar/data/000110465904023356/a04-8346_110q.htm
+840824,NETEGRITY INC,10-Q,2004-08-03,https://www.sec.gov/Archives/edgar/data/000095013504003756/b51167nie10vq.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2004-05-10,https://www.sec.gov/Archives/edgar/data/000110465904013377/a04-5696_110q.htm
+840824,NETEGRITY INC,10-Q,2004-05-07,https://www.sec.gov/Archives/edgar/data/000095013504002498/b50344nie10vq.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-K,2004-03-11,https://www.sec.gov/Archives/edgar/data/000104746904007473/a2130612z10-k.htm
+840824,NETEGRITY INC,10-K,2004-03-01,https://www.sec.gov/Archives/edgar/data/000095013504001035/b49028nie10vk.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2003-11-14,https://www.sec.gov/Archives/edgar/data/000110465903026655/a03-5497_110q.htm
+840824,NETEGRITY INC,10-Q,2003-10-28,https://www.sec.gov/Archives/edgar/data/000095013503005346/b48091nie10vq.txt
+1168940,"HOUSERAISING, INC.",10-Q,2003-09-26,https://www.sec.gov/Archives/edgar/data/000116894003000022/tgyc10q063003.txt
+1121225,"MINRAD INTERNATIONAL, INC.",10-Q,2003-09-02,https://www.sec.gov/Archives/edgar/data/000112122503000009/tac10qsb63003edgar.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2003-08-14,https://www.sec.gov/Archives/edgar/data/000110465903018292/a03-2251_110q.htm
+840824,NETEGRITY INC,10-Q,2003-07-28,https://www.sec.gov/Archives/edgar/data/000095013503004024/b47175nie10vq.txt
+1168940,"HOUSERAISING, INC.",10-Q,2003-05-20,https://www.sec.gov/Archives/edgar/data/000116894003000010/tgyc10q033102.htm
+1168940,"HOUSERAISING, INC.",10-K,2003-05-16,https://www.sec.gov/Archives/edgar/data/000116894003000009/tgyc10k02.htm
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2003-05-15,https://www.sec.gov/Archives/edgar/data/000110465903010005/j0891_10q.htm
+840824,NETEGRITY INC,10-Q,2003-04-28,https://www.sec.gov/Archives/edgar/data/000095013503002631/b46135nie10vq.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-K,2003-03-28,https://www.sec.gov/Archives/edgar/data/000104746903010871/a2106431z10-k.htm
+840824,NETEGRITY INC,10-K,2003-02-13,https://www.sec.gov/Archives/edgar/data/000095013503001107/b45455nte10vk.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2002-11-14,https://www.sec.gov/Archives/edgar/data/000104746902003082/a2093225z10-q.htm
+840824,NETEGRITY INC,10-Q,2002-10-24,https://www.sec.gov/Archives/edgar/data/000095013502004597/b44468nie10vq.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2002-08-14,https://www.sec.gov/Archives/edgar/data/000091205702032108/a2086465z10-q.htm
+840824,NETEGRITY INC,10-Q,2002-08-14,https://www.sec.gov/Archives/edgar/data/000095013502003749/b43688nie10vq.txt
+1002044,INFINIUM SOFTWARE INC,10-Q,2002-08-12,https://www.sec.gov/Archives/edgar/data/000095013502003661/b43675ise10vq.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2002-05-15,https://www.sec.gov/Archives/edgar/data/000091205702020634/a2080044z10-q.htm
+840824,NETEGRITY INC,10-Q,2002-05-13,https://www.sec.gov/Archives/edgar/data/000095013502002615/b43039nge10-q.txt
+1002044,INFINIUM SOFTWARE INC,10-Q,2002-05-09,https://www.sec.gov/Archives/edgar/data/000095013502002545/b43115ise10-q.txt
+840824,NETEGRITY INC,10-K,2002-03-22,https://www.sec.gov/Archives/edgar/data/000095013502001523/b41361nie10-k.txt
+875173,SOFTWARE SPECTRUM INC,10-Q,2002-03-18,https://www.sec.gov/Archives/edgar/data/000095013402002226/d94923e10-q.txt
+1002044,INFINIUM SOFTWARE INC,10-Q,2002-02-13,https://www.sec.gov/Archives/edgar/data/000095013502000765/b41971ise10-q.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-K,2002-02-08,https://www.sec.gov/Archives/edgar/data/000091205702004574/a2069529z10-k.htm
+1002044,INFINIUM SOFTWARE INC,10-K,2001-12-21,https://www.sec.gov/Archives/edgar/data/000095013501503962/b41247ise10-k.txt
+875173,SOFTWARE SPECTRUM INC,10-Q,2001-12-17,https://www.sec.gov/Archives/edgar/data/000095013401509545/d92879e10-q.txt
+840824,NETEGRITY INC,10-Q,2001-11-14,https://www.sec.gov/Archives/edgar/data/000095013501503564/b40885nie10-q.txt
+1060531,BEYOND COM CORP,10-Q,2001-11-14,https://www.sec.gov/Archives/edgar/data/000089161801502182/f76969e10-q.htm
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2001-11-14,https://www.sec.gov/Archives/edgar/data/000091205701539647/a2063549z10-q.htm
+875173,SOFTWARE SPECTRUM INC,10-Q,2001-09-14,https://www.sec.gov/Archives/edgar/data/000095013401506368/d90674e10-q.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2001-08-14,https://www.sec.gov/Archives/edgar/data/000091205701528616/a2056631z10-q.htm
+1060531,BEYOND COM CORP,10-Q,2001-08-14,https://www.sec.gov/Archives/edgar/data/000109581101504316/f74865e10-q.htm
+1002044,INFINIUM SOFTWARE INC,10-Q,2001-08-13,https://www.sec.gov/Archives/edgar/data/000095013501502404/b40070nfe10-q.txt
+840824,NETEGRITY INC,10-Q,2001-08-09,https://www.sec.gov/Archives/edgar/data/000095013501502330/b40086nie10-q.txt
+875173,SOFTWARE SPECTRUM INC,10-K,2001-07-30,https://www.sec.gov/Archives/edgar/data/000095013401504454/d89157e10-k.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2001-05-15,https://www.sec.gov/Archives/edgar/data/000091205701516075/a2048587z10-q.htm
+1060531,BEYOND COM CORP,10-Q,2001-05-15,https://www.sec.gov/Archives/edgar/data/000089161801500746/f72717e10-q.txt
+1002044,INFINIUM SOFTWARE INC,10-Q,2001-05-14,https://www.sec.gov/Archives/edgar/data/000095013501501218/b39438ise10-q.txt
+840824,NETEGRITY INC,10-Q,2001-05-11,https://www.sec.gov/Archives/edgar/data/000095013501501133/b39116nee10-q.txt
+1060531,BEYOND COM CORP,10-K,2001-04-19,https://www.sec.gov/Archives/edgar/data/000089161801000283/f70917e10-k.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-K,2001-03-30,https://www.sec.gov/Archives/edgar/data/000091205701505576/a2040259z10-k.htm
+875173,SOFTWARE SPECTRUM INC,10-Q,2001-03-16,https://www.sec.gov/Archives/edgar/data/000095013401002235/d85042e10-q.txt
+840824,NETEGRITY INC,10-K,2001-02-28,https://www.sec.gov/Archives/edgar/data/000095013501500153/b37852nee10-k.txt
+1002044,INFINIUM SOFTWARE INC,10-Q,2001-02-14,https://www.sec.gov/Archives/edgar/data/000095013501000580/b38319ine10-q.txt
+875173,SOFTWARE SPECTRUM INC,10-Q,2000-12-15,https://www.sec.gov/Archives/edgar/data/000095013400010535/d82659e10-q.txt
+1019180,SOFTWARE COM INC,10-Q,2000-11-14,https://www.sec.gov/Archives/edgar/data/000101287000005774/0001.txt
+1060531,BEYOND COM CORP,10-Q,2000-11-14,https://www.sec.gov/Archives/edgar/data/000089161800005139/f67258e10-q.txt
+840824,NETEGRITY INC,10-Q,2000-11-14,https://www.sec.gov/Archives/edgar/data/000095013500005039/b37145nte10-q.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2000-11-14,https://www.sec.gov/Archives/edgar/data/000091205700049804/a2030120z10-q.txt
+352683,SAGA SYSTEMS INC /DE/,10-Q,2000-11-13,https://www.sec.gov/Archives/edgar/data/000092838500003071/0001.txt
+875173,SOFTWARE SPECTRUM INC,10-Q,2000-09-14,https://www.sec.gov/Archives/edgar/data/000095013400007888/d80294e10-q.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2000-08-14,https://www.sec.gov/Archives/edgar/data/000091205700037308/a10-q.txt
+1019180,SOFTWARE COM INC,10-Q,2000-08-14,https://www.sec.gov/Archives/edgar/data/000101287000004425/0001.txt
+840824,NETEGRITY INC,10-Q,2000-08-14,https://www.sec.gov/Archives/edgar/data/000095013500004036/e10-q.txt
+1060531,BEYOND COM CORP,10-Q,2000-08-14,https://www.sec.gov/Archives/edgar/data/000109581100002827/e10-q.txt
+352683,SAGA SYSTEMS INC /DE/,10-Q,2000-08-11,https://www.sec.gov/Archives/edgar/data/000092838500002188/0001.txt
+1002044,INFINIUM SOFTWARE INC,10-Q,2000-08-11,https://www.sec.gov/Archives/edgar/data/000095013500003930/e10-q.txt
+875173,SOFTWARE SPECTRUM INC,10-K,2000-07-31,https://www.sec.gov/Archives/edgar/data/000095013400006112/e10-k.txt
+1106842,SEEBEYOND TECHNOLOGY CORP,10-Q,2000-06-12,https://www.sec.gov/Archives/edgar/data/000091205700028162/a10-q.txt
+840824,NETEGRITY INC,10-Q,2000-05-15,https://www.sec.gov/Archives/edgar/data/000095013500002878/
+1002044,INFINIUM SOFTWARE INC,10-Q,2000-05-12,https://www.sec.gov/Archives/edgar/data/000095013500002795/
+352683,SAGA SYSTEMS INC /DE/,10-Q,2000-05-12,https://www.sec.gov/Archives/edgar/data/000092838500001507/
+1019180,SOFTWARE COM INC,10-Q,2000-05-12,https://www.sec.gov/Archives/edgar/data/000094130200000173/
+1060531,BEYOND COM CORP,10-Q,2000-05-12,https://www.sec.gov/Archives/edgar/data/000089161800002795/
+1060531,BEYOND COM CORP,10-K,2000-04-05,https://www.sec.gov/Archives/edgar/data/000089161800001983/
+1019180,SOFTWARE COM INC,10-K,2000-03-30,https://www.sec.gov/Archives/edgar/data/000101287000001689/
+840824,NETEGRITY INC,10-K,2000-03-20,https://www.sec.gov/Archives/edgar/data/000095013500001501/
+875173,SOFTWARE SPECTRUM INC,10-Q,2000-03-16,https://www.sec.gov/Archives/edgar/data/000095013400002011/
+1002044,INFINIUM SOFTWARE INC,10-Q,2000-02-09,https://www.sec.gov/Archives/edgar/data/000095013500000536/
+1002044,INFINIUM SOFTWARE INC,10-K,1999-12-21,https://www.sec.gov/Archives/edgar/data/000095013599005664/
+875173,SOFTWARE SPECTRUM INC,10-Q,1999-12-15,https://www.sec.gov/Archives/edgar/data/000091205799009509/
+1060531,BEYOND COM CORP,10-Q,1999-11-15,https://www.sec.gov/Archives/edgar/data/000089161899005218/
+1019180,SOFTWARE COM INC,10-Q,1999-11-12,https://www.sec.gov/Archives/edgar/data/000094420999001740/
+352683,SAGA SYSTEMS INC /DE/,10-Q,1999-11-12,https://www.sec.gov/Archives/edgar/data/000092838599003348/
+840824,NETEGRITY INC,10-Q,1999-10-22,https://www.sec.gov/Archives/edgar/data/000095013599004829/
+875173,SOFTWARE SPECTRUM INC,10-Q,1999-09-14,https://www.sec.gov/Archives/edgar/data/000104746999035702/
+1060531,BEYOND COM CORP,10-Q,1999-08-16,https://www.sec.gov/Archives/edgar/data/000089161899003847/
+1002044,INFINIUM SOFTWARE INC,10-Q,1999-08-13,https://www.sec.gov/Archives/edgar/data/000095013599003997/
+840824,NETEGRITY INC,10-Q,1999-08-13,https://www.sec.gov/Archives/edgar/data/000084082499000002/
+352683,SAGA SYSTEMS INC /DE/,10-Q,1999-08-12,https://www.sec.gov/Archives/edgar/data/000092838599002548/
+1019180,SOFTWARE COM INC,10-Q,1999-08-12,https://www.sec.gov/Archives/edgar/data/000089843099003219/
+875173,SOFTWARE SPECTRUM INC,10-K,1999-07-28,https://www.sec.gov/Archives/edgar/data/000104746999028904/
+1060531,BEYOND COM CORP,10-Q,1999-05-17,https://www.sec.gov/Archives/edgar/data/000089161899002322/
+1002044,INFINIUM SOFTWARE INC,10-Q,1999-05-14,https://www.sec.gov/Archives/edgar/data/000095013599002704/
+840824,NETEGRITY INC,10-Q,1999-05-13,https://www.sec.gov/Archives/edgar/data/000084082499000001/
+352683,SAGA SYSTEMS INC /DE/,10-Q,1999-05-12,https://www.sec.gov/Archives/edgar/data/000092838599001718/
+1060531,BEYOND COM CORP,10-K,1999-03-31,https://www.sec.gov/Archives/edgar/data/000089102099000604/
+840824,NETEGRITY INC,10-K,1999-03-31,https://www.sec.gov/Archives/edgar/data/000104746999013045/
+875173,SOFTWARE SPECTRUM INC,10-Q,1999-03-17,https://www.sec.gov/Archives/edgar/data/000104746999010128/
+1002044,INFINIUM SOFTWARE INC,10-Q,1999-02-12,https://www.sec.gov/Archives/edgar/data/000095013599000676/
+875173,SOFTWARE SPECTRUM INC,10-Q,1998-12-14,https://www.sec.gov/Archives/edgar/data/000104746998043923/
+1060531,BEYOND COM CORP,10-Q,1998-11-16,https://www.sec.gov/Archives/edgar/data/000089161898004936/
+352683,SAGA SYSTEMS INC /DE/,10-Q,1998-11-12,https://www.sec.gov/Archives/edgar/data/000092838598002275/
+840824,NETEGRITY INC,10-Q,1998-11-12,https://www.sec.gov/Archives/edgar/data/000084082498000004/
+875173,SOFTWARE SPECTRUM INC,10-Q,1998-09-11,https://www.sec.gov/Archives/edgar/data/000104746998034357/
+926331,VIZACOM INC,10-Q,1998-08-14,https://www.sec.gov/Archives/edgar/data/000092633198000022/
+1002044,INFINIUM SOFTWARE INC,10-Q,1998-08-14,https://www.sec.gov/Archives/edgar/data/000095013598004757/
+1060531,BEYOND COM CORP,10-Q,1998-08-14,https://www.sec.gov/Archives/edgar/data/000089161898003945/
+352683,SAGA SYSTEMS INC /DE/,10-Q,1998-08-12,https://www.sec.gov/Archives/edgar/data/000092838598001647/
+840824,NETEGRITY INC,10-Q,1998-08-11,https://www.sec.gov/Archives/edgar/data/000084082498000003/
+875173,SOFTWARE SPECTRUM INC,10-K,1998-07-28,https://www.sec.gov/Archives/edgar/data/000104746998028564/
+840824,NETEGRITY INC,10-Q,1998-05-15,https://www.sec.gov/Archives/edgar/data/000084082498000002/
+1002044,INFINIUM SOFTWARE INC,10-Q,1998-05-14,https://www.sec.gov/Archives/edgar/data/000095013598003276/
+352683,SAGA SYSTEMS INC /DE/,10-Q,1998-04-21,https://www.sec.gov/Archives/edgar/data/000092838598000783/
+840824,NETEGRITY INC,10-K,1998-03-31,https://www.sec.gov/Archives/edgar/data/000104746998012876/
+875173,SOFTWARE SPECTRUM INC,10-Q,1998-03-17,https://www.sec.gov/Archives/edgar/data/000104746998010240/
+1002044,INFINIUM SOFTWARE INC,10-Q,1998-02-13,https://www.sec.gov/Archives/edgar/data/000095013598000992/
+875173,SOFTWARE SPECTRUM INC,10-Q,1997-12-15,https://www.sec.gov/Archives/edgar/data/000095013497009328/
+862928,SOFTWARE ARTISTRY INC,10-Q,1997-11-13,https://www.sec.gov/Archives/edgar/data/000104746997004370/
+840824,NETEGRITY INC,10-Q,1997-11-12,https://www.sec.gov/Archives/edgar/data/000084082497000004/
+875173,SOFTWARE SPECTRUM INC,10-Q,1997-09-15,https://www.sec.gov/Archives/edgar/data/000095013497006785/
+1002044,INFINIUM SOFTWARE INC,10-Q,1997-08-14,https://www.sec.gov/Archives/edgar/data/000095013597003550/
+862928,SOFTWARE ARTISTRY INC,10-Q,1997-08-13,https://www.sec.gov/Archives/edgar/data/000091205797027594/
+840824,NETEGRITY INC,10-Q,1997-08-08,https://www.sec.gov/Archives/edgar/data/000084082497000002/
+875173,SOFTWARE SPECTRUM INC,10-K,1997-07-29,https://www.sec.gov/Archives/edgar/data/000095013497005544/
+1002044,INFINIUM SOFTWARE INC,10-Q,1997-05-15,https://www.sec.gov/Archives/edgar/data/000095013597002487/
+840824,NETEGRITY INC,10-Q,1997-05-15,https://www.sec.gov/Archives/edgar/data/000091205797017742/
+862928,SOFTWARE ARTISTRY INC,10-Q,1997-05-15,https://www.sec.gov/Archives/edgar/data/000091205797018004/
+840824,NETEGRITY INC,10-K,1997-03-17,https://www.sec.gov/Archives/edgar/data/000091205797009095/
+875173,SOFTWARE SPECTRUM INC,10-Q,1997-02-14,https://www.sec.gov/Archives/edgar/data/000095013497001105/
+1002044,INFINIUM SOFTWARE INC,10-Q,1997-02-11,https://www.sec.gov/Archives/edgar/data/000095013597000437/
+1002044,INFINIUM SOFTWARE INC,10-K,1996-12-20,https://www.sec.gov/Archives/edgar/data/000095013596005373/
+875173,SOFTWARE SPECTRUM INC,10-Q,1996-11-14,https://www.sec.gov/Archives/edgar/data/000095013496006224/
+862928,SOFTWARE ARTISTRY INC,10-Q,1996-11-14,https://www.sec.gov/Archives/edgar/data/000101540296000031/
+840824,NETEGRITY INC,10-Q,1996-11-13,https://www.sec.gov/Archives/edgar/data/000084082496000008/
+926331,VIZACOM INC,10-Q,1996-08-19,https://www.sec.gov/Archives/edgar/data/000092633196000007/
+840824,NETEGRITY INC,10-Q,1996-08-14,https://www.sec.gov/Archives/edgar/data/000090389396000598/
+875173,SOFTWARE SPECTRUM INC,10-Q,1996-08-14,https://www.sec.gov/Archives/edgar/data/000095013496004362/
+755659,SOFTWARE PUBLISHING CORP,10-Q,1996-08-14,https://www.sec.gov/Archives/edgar/data/000075565996000005/
+1002044,INFINIUM SOFTWARE INC,10-Q,1996-08-13,https://www.sec.gov/Archives/edgar/data/000095013596003576/
+862928,SOFTWARE ARTISTRY INC,10-Q,1996-08-02,https://www.sec.gov/Archives/edgar/data/000086292896000004/
+875173,SOFTWARE SPECTRUM INC,10-K,1996-07-01,https://www.sec.gov/Archives/edgar/data/000095013496003286/
+840824,NETEGRITY INC,10-K,1996-06-28,https://www.sec.gov/Archives/edgar/data/000090389396000421/
+926331,VIZACOM INC,10-Q,1996-05-17,https://www.sec.gov/Archives/edgar/data/000092633196000003/
+755659,SOFTWARE PUBLISHING CORP,10-Q,1996-05-15,https://www.sec.gov/Archives/edgar/data/000075565996000004/
+755659,SOFTWARE PUBLISHING CORP,10-Q,1996-02-14,https://www.sec.gov/Archives/edgar/data/000075565996000002/
+840824,NETEGRITY INC,10-Q,1996-02-14,https://www.sec.gov/Archives/edgar/data/000084082496000004/
+840824,NETEGRITY INC,10-Q,1995-11-15,https://www.sec.gov/Archives/edgar/data/000084082495000014/
+755659,SOFTWARE PUBLISHING CORP,10-Q,1995-08-14,https://www.sec.gov/Archives/edgar/data/000095000595000177/
+840824,NETEGRITY INC,10-Q,1995-08-11,https://www.sec.gov/Archives/edgar/data/000084082495000007/
+755659,SOFTWARE PUBLISHING CORP,10-Q,1995-05-15,https://www.sec.gov/Archives/edgar/data/000095000595000079/
+755659,SOFTWARE PUBLISHING CORP,10-Q,1995-02-14,https://www.sec.gov/Archives/edgar/data/000095000595000008/
